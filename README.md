@@ -1,1 +1,1 @@
-# Estimation-and-prediction-of-hospitalization-and-medical-care-costs
+# Estimation-and-Prediction-of-Hospitalization-and-Medical-Care-Costs
