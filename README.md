@@ -1,6 +1,6 @@
 This project analyzes and predicts medical care costs based on patient demographics and health factors such as age, BMI, smoking status, gender, and region. It includes data preprocessing, visualization, dashboards, and predictive insights.
 
-** Tech Stack**
+Tech Stack
 
 Python,
 Pandas, NumPy, Matplotlib, Seaborn,
@@ -29,4 +29,6 @@ Machine learning model for cost prediction,
 Deployment on AWS/Azure,
 Real-time healthcare analytics dashboard# Estimation-and-Prediction-of-Hospitalization-and-Medical-Care-Costs
 
-Hi, I'm Geethika, Aspiring Data Analyst
+Hi, I'm Geethika, an aspiring Data Analyst. I would love to break down complex data topics into simple, practical content and extract the insights from them for the business development.
+
+Thanks for checking out project.
